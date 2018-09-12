@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards on Playful Explorations Lab</title>
+    <link>/categories/awards/</link>
+    <description>Recent content in Awards on Playful Explorations Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Mar 2018 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/awards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PEL Wins Second Best Paper Award at SIGCSE</title>
+      <link>/blog/2018/03/24/sigceaward/</link>
+      <pubDate>Sat, 24 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2018/03/24/sigceaward/</guid>
+      <description>We are happy to announce that PEL won Second Best Paper Award this year at SIGCSE 2018 conference within the CS Education Research track. The paper, called How Near Peer Mentoring Affects Middle School Mentees, was authored by Dr. Clarke-Midura, her team (Frederick Poole, Katarina Pantic, Chongning Sun, Megan Hamilton) and Dr. Allan from Computer Science department at USU. SIGCSE 2018 Program Chairs selected three best papers from each of the paper tracks for their “accomplishment of high quality, novelty and broad appeal to reviewers”.</description>
+    </item>
+    
+    <item>
+      <title>Jody and Katarina get ITLS Awards</title>
+      <link>/blog/2017/08/05/itlsawards/</link>
+      <pubDate>Sat, 05 Aug 2017 13:39:46 +0200</pubDate>
+      
+      <guid>/blog/2017/08/05/itlsawards/</guid>
+      <description>Another win for the PEL team this year: Jody and Katarina got ITLS awards for the 2016&amp;frasl;2017 academic year. Jody was voted Graduate Mentor of the Year, while Katarina got the Graduate Student Instructor of the Year award. Congratulations to both!
+For a full list of all award recipients, please go to ITLS blog where this story was first published. Here is a link: http://itlsatusunews.blogspot.com/2017/05/this-years-graduate-award-recipients.html</description>
+    </item>
+    
+    <item>
+      <title>FRED RECEIVES GRADUATE ENHANCEMENT AWARD</title>
+      <link>/blog/2017/05/29/enhanceaward/</link>
+      <pubDate>Mon, 29 May 2017 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/2017/05/29/enhanceaward/</guid>
+      <description>For the 2016-2017 academic year, Frederick Poole received the Graduate Enhancement Award at Utah State University. Recipients of this award receive $4,000 for having a track record of using knowledge gained at the university to benefit campus, local, and national communities. Frederick was recognized for his work with the Utah dual language immersion program including: innovative research projects, numerous presentations and publications, and community service. Congratulations, Fred! We are proud of you.</description>
+    </item>
+    
+  </channel>
+</rss>

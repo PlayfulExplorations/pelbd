@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Playful Explorations Lab</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Playful Explorations Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2017 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4h</title>
+      <link>/categories/4h/</link>
+      <pubDate>Mon, 14 Aug 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/4h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App Camp</title>
+      <link>/categories/app-camp/</link>
+      <pubDate>Tue, 01 Aug 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/app-camp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appcamp</title>
+      <link>/categories/appcamp/</link>
+      <pubDate>Mon, 18 Jun 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/appcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>/categories/awards/</link>
+      <pubDate>Sat, 24 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/awards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computerscience</title>
+      <link>/categories/computerscience/</link>
+      <pubDate>Mon, 14 Aug 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/computerscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gearup</title>
+      <link>/categories/gearup/</link>
+      <pubDate>Thu, 20 Jul 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/gearup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grant</title>
+      <link>/categories/grant/</link>
+      <pubDate>Fri, 05 May 2017 14:19:46 +0200</pubDate>
+      
+      <guid>/categories/grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makers</title>
+      <link>/categories/makers/</link>
+      <pubDate>Thu, 20 Jul 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/makers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/categories/programming/</link>
+      <pubDate>Mon, 14 Aug 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/categories/publications/</link>
+      <pubDate>Sat, 24 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Magazine</title>
+      <link>/categories/science-magazine/</link>
+      <pubDate>Tue, 01 Aug 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/science-magazine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sigce</title>
+      <link>/categories/sigce/</link>
+      <pubDate>Sat, 24 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/sigce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starting</title>
+      <link>/categories/starting/</link>
+      <pubDate>Sat, 23 Jun 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/starting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upr</title>
+      <link>/categories/upr/</link>
+      <pubDate>Mon, 18 Jun 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/upr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

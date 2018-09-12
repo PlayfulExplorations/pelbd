@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4h on Playful Explorations Lab</title>
+    <link>/categories/4h/</link>
+    <description>Recent content in 4h on Playful Explorations Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2017 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/4h/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PEL AT 4-H COMPUTER SCIENCE PATHWAY TRAINING</title>
+      <link>/blog/2017/08/14/pel4h/</link>
+      <pubDate>Mon, 14 Aug 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/2017/08/14/pel4h/</guid>
+      <description>End of July 2017, Megan, Katarina and Lauren joined other Instructional Technology and Learning Sciences students at the national 4-H Computer Science Pathway Training held at Thanksgiving Point in Lehi, Utah. They presented on how one can use App Inventor in 4H. To read the full story, please go to ITLS blog story about this event: http://itlsatusunews.blogspot.com/2017/08/researchers-from-pel-and-led-lab.html</description>
+    </item>
+    
+  </channel>
+</rss>

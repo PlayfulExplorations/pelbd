@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Playful Explorations Lab</title>
+    <link>/categories/programming/</link>
+    <description>Recent content in Programming on Playful Explorations Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2017 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PEL AT 4-H COMPUTER SCIENCE PATHWAY TRAINING</title>
+      <link>/blog/2017/08/14/pel4h/</link>
+      <pubDate>Mon, 14 Aug 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/2017/08/14/pel4h/</guid>
+      <description>End of July 2017, Megan, Katarina and Lauren joined other Instructional Technology and Learning Sciences students at the national 4-H Computer Science Pathway Training held at Thanksgiving Point in Lehi, Utah. They presented on how one can use App Inventor in 4H. To read the full story, please go to ITLS blog story about this event: http://itlsatusunews.blogspot.com/2017/08/researchers-from-pel-and-led-lab.html</description>
+    </item>
+    
+    <item>
+      <title>Jody was quoted in Science Magazine</title>
+      <link>/blog/2017/08/01/sciencemagazine/</link>
+      <pubDate>Tue, 01 Aug 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2017/08/01/sciencemagazine/</guid>
+      <description>Dr. Jody Clarke-Midura was quoted in Science Magazine. The story was published just yesterday. Read more by clicking below. “At Utah State University’s App Camp in Logan, smart hiring has meant training high school girls how to lead groups of middle school–aged girls in using App Inventor, a program that helps people build their own computer applications.” Link to Trump donated $100,000 for a science camp article in Science Magazine.</description>
+    </item>
+    
+    <item>
+      <title>GearUp App Camp 2017</title>
+      <link>/blog/2017/07/20/gearup2017/</link>
+      <pubDate>Thu, 20 Jul 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2017/07/20/gearup2017/</guid>
+      <description>In July, PEL collaborated with USU GearUP, to conduct GearUP Appcamp, in addition to which Dr. Searle from ITLS and Dr. Tofl-Grehl from TEAL taught girls from around the state how to work with eTextiles.</description>
+    </item>
+    
+    <item>
+      <title>Jody gets CWG Grant</title>
+      <link>/blog/2017/05/05/jodycwg/</link>
+      <pubDate>Fri, 05 May 2017 14:19:46 +0200</pubDate>
+      
+      <guid>/blog/2017/05/05/jodycwg/</guid>
+      <description>Jody was awarded a grant from the Center for Women and Gender (CWG) at USU in April 2017. The $12,959 grant was awarded for a qualitative study involving women in Computer Science (CS) majors in Northern Utah. The study will be funded from July 1, 2017 to June 30, 2018. Jody and Katarina designed this project together as a vehicle for Katarina’s dissertation study. More about this story on CEHS blog, where it was originally published.</description>
+    </item>
+    
+  </channel>
+</rss>

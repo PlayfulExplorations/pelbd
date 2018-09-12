@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Playful Explorations Lab</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Playful Explorations Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jun 2018 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HJ Story on App Camp</title>
+      <link>/blog/2018/06/23/hjreport/</link>
+      <pubDate>Sat, 23 Jun 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2018/06/23/hjreport/</guid>
+      <description>This week the Herald Journal published a story about the experience both mentors and campers had at our 2018 Appcamps. For a full story, go to: https://www.hjnews.com/news/education/kids-pick-up-coding-skills-at-usu-app-camp/article_9a401c64-aae8-5d97-9b82-518e416604af.html</description>
+    </item>
+    
+    <item>
+      <title>UPR Story on 2018 App Camp</title>
+      <link>/blog/2018/06/18/uprstory/</link>
+      <pubDate>Mon, 18 Jun 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2018/06/18/uprstory/</guid>
+      <description>This week UPR broadcast a story about our 2018 App Camp. Jody and Megan are quoted throughout the segment. To read (or listen) the story, please follow this link: http://upr.org/post/summer-app-camp-teaches-girls-how-code</description>
+    </item>
+    
+    <item>
+      <title>PEL Wins Second Best Paper Award at SIGCSE</title>
+      <link>/blog/2018/03/24/sigceaward/</link>
+      <pubDate>Sat, 24 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2018/03/24/sigceaward/</guid>
+      <description>We are happy to announce that PEL won Second Best Paper Award this year at SIGCSE 2018 conference within the CS Education Research track. The paper, called How Near Peer Mentoring Affects Middle School Mentees, was authored by Dr. Clarke-Midura, her team (Frederick Poole, Katarina Pantic, Chongning Sun, Megan Hamilton) and Dr. Allan from Computer Science department at USU. SIGCSE 2018 Program Chairs selected three best papers from each of the paper tracks for their “accomplishment of high quality, novelty and broad appeal to reviewers”.</description>
+    </item>
+    
+    <item>
+      <title>PEL AT 4-H COMPUTER SCIENCE PATHWAY TRAINING</title>
+      <link>/blog/2017/08/14/pel4h/</link>
+      <pubDate>Mon, 14 Aug 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/2017/08/14/pel4h/</guid>
+      <description>End of July 2017, Megan, Katarina and Lauren joined other Instructional Technology and Learning Sciences students at the national 4-H Computer Science Pathway Training held at Thanksgiving Point in Lehi, Utah. They presented on how one can use App Inventor in 4H. To read the full story, please go to ITLS blog story about this event: http://itlsatusunews.blogspot.com/2017/08/researchers-from-pel-and-led-lab.html</description>
+    </item>
+    
+    <item>
+      <title>Jody and Katarina get ITLS Awards</title>
+      <link>/blog/2017/08/05/itlsawards/</link>
+      <pubDate>Sat, 05 Aug 2017 13:39:46 +0200</pubDate>
+      
+      <guid>/blog/2017/08/05/itlsawards/</guid>
+      <description>Another win for the PEL team this year: Jody and Katarina got ITLS awards for the 2016&amp;frasl;2017 academic year. Jody was voted Graduate Mentor of the Year, while Katarina got the Graduate Student Instructor of the Year award. Congratulations to both!
+For a full list of all award recipients, please go to ITLS blog where this story was first published. Here is a link: http://itlsatusunews.blogspot.com/2017/05/this-years-graduate-award-recipients.html</description>
+    </item>
+    
+    <item>
+      <title>Jody was quoted in Science Magazine</title>
+      <link>/blog/2017/08/01/sciencemagazine/</link>
+      <pubDate>Tue, 01 Aug 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2017/08/01/sciencemagazine/</guid>
+      <description>Dr. Jody Clarke-Midura was quoted in Science Magazine. The story was published just yesterday. Read more by clicking below. “At Utah State University’s App Camp in Logan, smart hiring has meant training high school girls how to lead groups of middle school–aged girls in using App Inventor, a program that helps people build their own computer applications.” Link to Trump donated $100,000 for a science camp article in Science Magazine.</description>
+    </item>
+    
+    <item>
+      <title>GearUp App Camp 2017</title>
+      <link>/blog/2017/07/20/gearup2017/</link>
+      <pubDate>Thu, 20 Jul 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2017/07/20/gearup2017/</guid>
+      <description>In July, PEL collaborated with USU GearUP, to conduct GearUP Appcamp, in addition to which Dr. Searle from ITLS and Dr. Tofl-Grehl from TEAL taught girls from around the state how to work with eTextiles.</description>
+    </item>
+    
+    <item>
+      <title>FRED RECEIVES GRADUATE ENHANCEMENT AWARD</title>
+      <link>/blog/2017/05/29/enhanceaward/</link>
+      <pubDate>Mon, 29 May 2017 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/2017/05/29/enhanceaward/</guid>
+      <description>For the 2016-2017 academic year, Frederick Poole received the Graduate Enhancement Award at Utah State University. Recipients of this award receive $4,000 for having a track record of using knowledge gained at the university to benefit campus, local, and national communities. Frederick was recognized for his work with the Utah dual language immersion program including: innovative research projects, numerous presentations and publications, and community service. Congratulations, Fred! We are proud of you.</description>
+    </item>
+    
+    <item>
+      <title>Jody gets CWG Grant</title>
+      <link>/blog/2017/05/05/jodycwg/</link>
+      <pubDate>Fri, 05 May 2017 14:19:46 +0200</pubDate>
+      
+      <guid>/blog/2017/05/05/jodycwg/</guid>
+      <description>Jody was awarded a grant from the Center for Women and Gender (CWG) at USU in April 2017. The $12,959 grant was awarded for a qualitative study involving women in Computer Science (CS) majors in Northern Utah. The study will be funded from July 1, 2017 to June 30, 2018. Jody and Katarina designed this project together as a vehicle for Katarina’s dissertation study. More about this story on CEHS blog, where it was originally published.</description>
+    </item>
+    
+  </channel>
+</rss>

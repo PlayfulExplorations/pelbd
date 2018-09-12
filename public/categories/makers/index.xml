@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makers on Playful Explorations Lab</title>
+    <link>/categories/makers/</link>
+    <description>Recent content in Makers on Playful Explorations Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jul 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/makers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GearUp App Camp 2017</title>
+      <link>/blog/2017/07/20/gearup2017/</link>
+      <pubDate>Thu, 20 Jul 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2017/07/20/gearup2017/</guid>
+      <description>In July, PEL collaborated with USU GearUP, to conduct GearUP Appcamp, in addition to which Dr. Searle from ITLS and Dr. Tofl-Grehl from TEAL taught girls from around the state how to work with eTextiles.</description>
+    </item>
+    
+  </channel>
+</rss>
