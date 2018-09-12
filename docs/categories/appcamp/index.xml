@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appcamp on Playful Explorations Lab</title>
+    <link>/categories/appcamp/</link>
+    <description>Recent content in Appcamp on Playful Explorations Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jun 2018 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/appcamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UPR Story on 2018 App Camp</title>
+      <link>/blog/2018/06/18/uprstory/</link>
+      <pubDate>Mon, 18 Jun 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2018/06/18/uprstory/</guid>
+      <description>This week UPR broadcast a story about our 2018 App Camp. Jody and Megan are quoted throughout the segment. To read (or listen) the story, please follow this link: http://upr.org/post/summer-app-camp-teaches-girls-how-code</description>
+    </item>
+    
+  </channel>
+</rss>

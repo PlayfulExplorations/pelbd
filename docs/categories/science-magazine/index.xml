@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Magazine on Playful Explorations Lab</title>
+    <link>/categories/science-magazine/</link>
+    <description>Recent content in Science Magazine on Playful Explorations Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/science-magazine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jody was quoted in Science Magazine</title>
+      <link>/blog/2017/08/01/sciencemagazine/</link>
+      <pubDate>Tue, 01 Aug 2017 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2017/08/01/sciencemagazine/</guid>
+      <description>Dr. Jody Clarke-Midura was quoted in Science Magazine. The story was published just yesterday. Read more by clicking below. “At Utah State University’s App Camp in Logan, smart hiring has meant training high school girls how to lead groups of middle school–aged girls in using App Inventor, a program that helps people build their own computer applications.” Link to Trump donated $100,000 for a science camp article in Science Magazine.</description>
+    </item>
+    
+  </channel>
+</rss>
